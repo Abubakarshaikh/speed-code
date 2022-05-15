@@ -1,9 +1,8 @@
-# Flutter sample JPV
+# Flutter sample
 These examples are made to help everyone grow in flutter and see a little of everything we can create with this beautiful tool,
 you can use the repository for whatever you want, if you like it, leave a star.
 
-Estos ejemplos son realizados para el apoyo a crecer todos en flutter y ver un poco de todo lo quen podemos crear con esta hermosa herramienta,  
-puedes utilizar el repositorio para lo que desees, si te gusta, deja una estrella.
+
 
 |Person Search - Consuming Un Api |  App Delivery Food |
 |------------|-------------|
